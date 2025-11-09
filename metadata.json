@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Asistente Patricia AI",
+  "description": "An ultra-modern, professional AI chat interface with a personalized experience, inspired by top platforms like ChatGPT and Grok. Features include persistent chats, task-specific tools, voice input, and a refined visual design with glassmorphism effects.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
